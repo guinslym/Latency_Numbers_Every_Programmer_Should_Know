@@ -1,4 +1,4 @@
-## Comparing latency number inside computer
+## Comparing latency numbers inside computer
 
 #### Credit
 
@@ -27,19 +27,10 @@
 
 Assuming ~1GB/sec SSD
 
-![Visual representation of latencies](http://i.imgur.com/k0t1e.png)
-
-Visual chart provided by [ayshen](https://gist.github.com/ayshen)
-
-Data by [Jeff Dean](http://research.google.com/people/jeff/)
-
-Originally by [Peter Norvig](http://norvig.com/21-days.html#answers)
-
-
-
 Lets multiply all these durations by a billion:
 
 Magnitudes:
+
 
 ### Minute:
     L1 cache reference                  0.5 s         One heart beat (0.5 s)
@@ -70,3 +61,4 @@ Magnitudes:
     
 
     
+
