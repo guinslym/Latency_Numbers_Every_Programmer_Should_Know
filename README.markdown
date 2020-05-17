@@ -27,9 +27,12 @@
 
 Assuming ~1GB/sec SSD
 
-Lets multiply all these durations by a billion:
+## Humanized
+
+Lets **multiply** all these durations by **a billion**:
 
 Magnitudes:
+
 
 
 ### Minute:
@@ -61,4 +64,5 @@ Magnitudes:
     
 
     
+
 
