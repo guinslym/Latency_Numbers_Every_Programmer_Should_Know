@@ -68,9 +68,15 @@ Magnitudes:
 
 ### Decade
     Send packet CA->Netherlands->CA     4.8 years     Average time it takes to complete a bachelor's degree
+
+## Video
+1.  [What is latency? What affects latency?](https://www.youtube.com/watch?v=epAXDsq5SbE)
+2.  [Latency - Intro to Computer Science](https://www.youtube.com/watch?v=6_1akTCAnt4)
+3.  [Latency as Fast As Possible](https://www.youtube.com/watch?v=UWeMWIoUWQA)
     
 
     
+
 
 
 
