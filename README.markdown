@@ -1,3 +1,12 @@
+#### Credit
+1.  ![Visual representation of latencies](http://i.imgur.com/k0t1e.png)
+2.  Visual chart provided by [ayshen](https://gist.github.com/ayshen)
+3.  Data by [Jeff Dean](http://research.google.com/people/jeff/)
+4.  Originally by [Peter Norvig](http://norvig.com/21-days.html#answers)
+5.  Humanized by [HellerBlade](https://gist.github.com/hellerbarde/2843375)
+
+Comparing latency number inside computer
+
 ### Latency numbers every programmer should know
     L1 cache reference ......................... 0.5 ns
     Branch mispredict ............................ 5 ns
@@ -56,3 +65,4 @@ Magnitudes:
 
 ### Decade
     Send packet CA->Netherlands->CA     4.8 years     Average time it takes to complete a bachelor's degree
+    
