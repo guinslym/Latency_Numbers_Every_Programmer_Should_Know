@@ -64,10 +64,12 @@ Magnitudes:
 3.  [Latency as Fast As Possible](https://www.youtube.com/watch?v=UWeMWIoUWQA)
     
 
-#### Credit
+## Credit
+All this was possible by:
 
 2.  Visual chart provided by [ayshen](https://gist.github.com/ayshen)
 3.  Data by [Jeff Dean](http://research.google.com/people/jeff/)
 6.  Latency Comparison Numbers by [jboner](https://gist.github.com/jboner/2841832)
 4.  (6) Originally by [Peter Norvig](http://norvig.com/21-days.html#answers)
 5.  Humanized by [HellerBlade](https://gist.github.com/hellerbarde/2843375)
+
