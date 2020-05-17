@@ -1,4 +1,4 @@
-## Comparing latency numbers inside computer
+# Comparing latency numbers inside computer
 
 #### Credit
 
