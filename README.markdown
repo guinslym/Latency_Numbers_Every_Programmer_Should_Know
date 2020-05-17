@@ -31,6 +31,8 @@
 Assuming ~1GB/sec SSD
 
 
+## Visual Representation of latencies 
+![Visual representation of latencies](http://i.imgur.com/k0t1e.png)
 
 ## Humanized
 
@@ -69,6 +71,7 @@ Magnitudes:
     
 
     
+
 
 
 
